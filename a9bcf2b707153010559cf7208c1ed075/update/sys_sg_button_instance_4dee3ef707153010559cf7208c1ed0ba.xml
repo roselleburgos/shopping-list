@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Shopping Item)">89ee3ef707153010559cf7208c1ed0ac</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Shopping Item)</name>
+        <order/>
+        <parent>cdee3ef707153010559cf7208c1ed089</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-19 08:21:37</sys_created_on>
+        <sys_id>4dee3ef707153010559cf7208c1ed0ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Shopping Item)</sys_name>
+        <sys_package display_value="My Shopping List" source="x_667266_my_shoppi">a9bcf2b707153010559cf7208c1ed075</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Shopping List">a9bcf2b707153010559cf7208c1ed075</sys_scope>
+        <sys_update_name>sys_sg_button_instance_4dee3ef707153010559cf7208c1ed0ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-19 08:21:37</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dee3ef707153010559cf7208c1ed0ba"/>
+</record_update>
